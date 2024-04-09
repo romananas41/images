@@ -1,0 +1,44 @@
+body{
+    background-color: lightblue;
+    background-image: url(https://th.bing.com/th/id/R.eb8dbf45f22890a8c06f6edcddbfaab4?rik=%2bE3SSoIaHMAfuA&pid=ImgRaw&r=0);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    background-attachment: fixed;
+}
+p{
+    font-size: 0.8in;
+    color: darkred;
+    background-image: url(https://wallpapercave.com/wp/wp2686612.jpg);
+    background-size: cover;
+}
+div{
+    width: 500px;
+    height: 500px;
+    margin: 30px;
+}
+#d1{
+    background-image: url(https://th.bing.com/th/id/OIP.PFaLicQHn9JmCglKqnZeNAHaIi?rs=1&pid=ImgDetMain);
+    width: 500px;
+    border: ridge 15px orange;
+}
+
+#d2{
+    background-image: linear-gradient(rgba(255,225,0,0.8), rgba(0,0,225,0.8)), url(https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Languages_in_Ukraine2.png/220px-Languages_in_Ukraine2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 850px;
+    border: solid 10px;
+    border-image: linear-gradient(green, orange) 30;
+}
+#img1{
+    width: 50%;
+    margin: auto;
+    display: block;
+}
+#img2{
+    width: 35%;
+    border-radius: 70%;
+    box-shadow: 5px 5px 40px blue, 5px 5px gray;
+}
